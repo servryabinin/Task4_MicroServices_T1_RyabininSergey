@@ -1,0 +1,12 @@
+ru\example\micro\creditprocessing\DataInitializer.class
+ru\example\micro\creditprocessing\kafka\CreditKafkaConsumer.class
+ru\example\micro\creditprocessing\CreditProcessingApplication.class
+ru\example\micro\creditprocessing\model\ProductRegistry.class
+ru\example\micro\creditprocessing\service\PaymentRegistryService.class
+ru\example\micro\creditprocessing\service\ProductRegistryService.class
+ru\example\micro\creditprocessing\controller\ProductRegistryController.class
+ru\example\micro\creditprocessing\DTO\ClientCreditProductMessage.class
+ru\example\micro\creditprocessing\repository\PaymentRegistryRepository.class
+ru\example\micro\creditprocessing\controller\PaymentRegistryController.class
+ru\example\micro\creditprocessing\model\PaymentRegistry.class
+ru\example\micro\creditprocessing\repository\ProductRegistryRepository.class

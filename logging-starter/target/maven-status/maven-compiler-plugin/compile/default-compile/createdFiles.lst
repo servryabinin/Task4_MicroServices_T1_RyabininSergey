@@ -1,0 +1,4 @@
+ru\example\micro\logging\annotation\LogDatasourceError.class
+ru\example\micro\logging\aspect\LogDatasourceErrorAspect.class
+ru\example\micro\logging\model\ErrorLog.class
+ru\example\micro\logging\repository\ErrorLogRepository.class

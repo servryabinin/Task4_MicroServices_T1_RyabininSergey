@@ -1,0 +1,12 @@
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\controller\PaymentRegistryController.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\controller\ProductRegistryController.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\CreditProcessingApplication.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\DataInitializer.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\DTO\ClientCreditProductMessage.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\kafka\CreditKafkaConsumer.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\model\PaymentRegistry.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\model\ProductRegistry.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\repository\PaymentRegistryRepository.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\repository\ProductRegistryRepository.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\service\PaymentRegistryService.java
+C:\Users\Сергей\Desktop\открытая школа\Task4_MicroServices_T1_RyabininSergey-master\credit-processing\src\main\java\ru\example\micro\creditprocessing\service\ProductRegistryService.java
